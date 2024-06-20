@@ -1,0 +1,6 @@
+C:\Users\abhishek07\OneDrive - Nagarro\Desktop\DDDProject\DDDProject.Domain\bin\Debug\DDDProject.Domain.dll
+C:\Users\abhishek07\OneDrive - Nagarro\Desktop\DDDProject\DDDProject.Domain\bin\Debug\DDDProject.Domain.pdb
+C:\Users\abhishek07\OneDrive - Nagarro\Desktop\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\abhishek07\OneDrive - Nagarro\Desktop\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.dll
+C:\Users\abhishek07\OneDrive - Nagarro\Desktop\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.pdb
+C:\Users\abhishek07\OneDrive - Nagarro\Desktop\DDDProject\DDDProject.Domain\obj\Debug\DDDProject.Domain.csproj.AssemblyReference.cache
